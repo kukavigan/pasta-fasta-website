@@ -8,7 +8,7 @@ This project focuses on branding, motion, and layout precision, inspired by awar
 
 ## 🚀 Live Preview
 
-👉 https://github.com/kukavigan/pasta-fasta-website
+👉 [https://github.com/kukavigan/pasta-fasta-website](https://kukavigan.github.io/pasta-fasta-website/)
 
 ---
 
